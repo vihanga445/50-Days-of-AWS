@@ -22,7 +22,6 @@ The **Nautilus DevOps team** is moving a service that requires a consistent entr
     * Selected the corresponding **Private IP address** for the mapping.
 4.  **Verification:** Confirmed the association was successful and the instance now reflects the new static Public IP.
 
-## 💻 The Engineer's Way (CLI)
 To associate an Elastic IP via the terminal, you would first get the Allocation ID and then run:
 
 ```bash
